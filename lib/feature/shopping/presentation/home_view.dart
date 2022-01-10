@@ -161,7 +161,7 @@ Widget buildTextField(
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(25),
         ),
-        prefixIcon: Icon(Icons.search),
+        prefixIcon: Icon(FlatIcons.search),
         suffixIcon: InkWell(
           onTap: () {
             controller.clear();
