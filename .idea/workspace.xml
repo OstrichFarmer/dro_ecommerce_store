@@ -1,6 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2223b796-3789-4237-ac3f-e4fb30ef261b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23V5H2Xm22s4QWZAe9weooBozdQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2223b796-3789-4237-ac3f-e4fb30ef261b" name="Default Changelist" comment="" />
+      <created>1641806324419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641806324419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641808440657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="450" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641808440657" />
+    <state x="100" y="101" width="1240" height="880" key="AVDManager" timestamp="1641808090984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="101" width="1240" height="880" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1641808090984" />
+    <state width="1380" height="292" key="GridCell.Tab.0.bottom" timestamp="1641810287425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1380" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1641810287425" />
+    <state width="1380" height="292" key="GridCell.Tab.0.center" timestamp="1641810287425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1380" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1641810287425" />
+    <state width="1380" height="292" key="GridCell.Tab.0.left" timestamp="1641810287425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1380" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1641810287425" />
+    <state width="1380" height="292" key="GridCell.Tab.0.right" timestamp="1641810287425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1380" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1641810287425" />
+    <state x="221" y="185" key="SettingsEditor" timestamp="1641807903444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="221" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1641807903444" />
+    <state x="376" y="253" key="run.anything.popup" timestamp="1641807948957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="376" y="253" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1641807948957" />
   </component>
 </project>
