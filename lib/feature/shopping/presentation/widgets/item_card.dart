@@ -1,6 +1,7 @@
 import 'package:dro_health_pharmacy/feature/shopping/data/models/cart_model.dart';
 import 'package:dro_health_pharmacy/feature/shopping/presentation/view_models/cart_view_model.dart';
 import 'package:dro_health_pharmacy/utilities/colors.dart' as AppColor;
+import 'package:flat_icons_flutter/flat_icons_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -113,7 +114,7 @@ class _ItemCardState extends State<ItemCard> {
                     provide.calculateTotal();
                   },
                   Icon(
-                    Icons.remove,
+                    FlatIcons.substract,
                     color: AppColor.darkPurple,
                   ),
                 ),
@@ -135,7 +136,7 @@ class _ItemCardState extends State<ItemCard> {
                     });
                   },
                   Icon(
-                    Icons.add,
+                    FlatIcons.add,
                     color: AppColor.darkPurple,
                   ),
                 ),

@@ -11,7 +11,7 @@ class MedicineBank {
       seller: "Emzor Pharmaceuticals",
       modeOfDispense: "Packs",
       constituents: "Garlic oil",
-      imagePath: "images/drug.png",
+      imagePath: "images/garlic.png",
     ),
     Medicine(
       id: "NKGU276369",
@@ -66,7 +66,7 @@ class MedicineBank {
       seller: "Emzor Pharmaceuticals",
       modeOfDispense: "Packs",
       constituents: "Garlic oil",
-      imagePath: "images/drug.png",
+      imagePath: "images/garlic.png",
     ),
     Medicine(
       id: "NKGU276369",

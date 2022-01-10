@@ -3,6 +3,7 @@ import 'package:dro_health_pharmacy/feature/shopping/data/models/medicine_model.
 import 'package:dro_health_pharmacy/feature/shopping/presentation/view_models/cart_view_model.dart';
 import 'package:dro_health_pharmacy/feature/shopping/presentation/widgets/long_button.dart';
 import 'package:dro_health_pharmacy/utilities/colors.dart' as AppColor;
+import 'package:flat_icons_flutter/flat_icons_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -56,7 +57,7 @@ class _ProductDetailsViewState extends State<ProductDetailsView> {
               ],
             ),
             Image(
-              image: AssetImage("images/drug.png"),
+              image: AssetImage(widget.med?.imagePath),
               height: screenSize.height * 0.18,
             ),
             SizedBox(
@@ -124,7 +125,7 @@ class _ProductDetailsViewState extends State<ProductDetailsView> {
                   child: Row(
                     children: [
                       IconButton(
-                          icon: Icon(Icons.remove),
+                          icon: Icon(FlatIcons.substract),
                           onPressed: () {
                             setState(() {
                               if (numberOfItem > 0) numberOfItem--;
@@ -136,7 +137,7 @@ class _ProductDetailsViewState extends State<ProductDetailsView> {
                             color: Colors.black, fontWeight: FontWeight.bold),
                       ),
                       IconButton(
-                          icon: Icon(Icons.add),
+                          icon: Icon(FlatIcons.add),
                           onPressed: () {
                             setState(() {
                               numberOfItem++;

@@ -4,8 +4,10 @@ import 'package:dro_health_pharmacy/feature/shopping/presentation/view_models/st
 import 'package:dro_health_pharmacy/feature/shopping/presentation/widgets/icon_button.dart';
 import 'package:dro_health_pharmacy/feature/shopping/presentation/widgets/medicine_card.dart';
 import 'package:dro_health_pharmacy/utilities/colors.dart' as AppColor;
+import 'package:flat_icons_flutter/flat_icons_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
 
 import 'cart_view.dart';
 
@@ -76,7 +78,7 @@ class _HomeState extends State<Home> {
                         onTap: () {},
                       ),
                       CustomIconButton(
-                        icon: Icon(Icons.search),
+                        icon: Icon(FlatIcons.search),
                         onTap: () {
                           setState(() {
                             textFieldVisible = !textFieldVisible;
